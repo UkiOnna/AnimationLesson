@@ -1,0 +1,14 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\bin\Debug\GraphikMan.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\bin\Debug\GraphikMan.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\bin\Debug\GraphikMan.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\GraphikMan.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\GraphikMan_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\GraphikMan_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\GraphikMan.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\GraphikMan.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\GraphikMan.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\GraphikMan.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\GraphikMan\GraphikMan\obj\Debug\GraphikMan.pdb
